@@ -39,8 +39,4 @@ Contact  : nehaprajwal1@gmail.com
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NehaPrajwal1&show_icons=true&theme=transparent&hide_border=true" alt="Neha's GitHub Stats" />
-</div>
