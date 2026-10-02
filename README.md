@@ -14,29 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I'm Neha Prajwal
+# Hi there, I'm Neha Prajwal 👋
 
-```text
-Name     : Neha Prajwal
-Degree   : BTech Electronics and Communication Engineering — PES University
-Minors   : Computer Science and Engineering [ DSA, DAA, OS, DBMS ]
-Focus    :  information retrieval, machine learning, embedded systems 
-Contact  : nehaprajwal1@gmail.com
+A final-year ECE student with a minor in CSE, passionate about building robust **Information Retrieval systems**, **Machine Learning models**, and **Secure AI pipelines**.
 
+---
 
+### 🚀 About Me
 
+- 🎓 **Degree:** B.Tech in Electronics and Communication Engineering @ **PES University**
+- 📚 **Minors:** Computer Science and Engineering *(DSA, DAA, OS, DBMS)*
+- 🎯 **Core Focus:** Information Retrieval • Machine Learning • AI Security • Embedded Systems
+- 📬 **Get in Touch:** [nehaprajwal1@gmail.com](mailto:nehaprajwal1@gmail.com)
 
+---
 
 ### 💻 Stack & Skills
 
-- **Programming:** C, C++, Python, Java, Verilog
-- **ML / AI:** PyTorch, TensorFlow, NumPy, SciPy, Gymnasium, RAG, LLMs, Ollama, Generative AI
-- **Information Retrieval:** FAISS, BM25, RRF, Cross-Encoder Reranking, Semantic Search, Hybrid Search
-- **AI Security:** Prompt Injection Testing, Access Control (ACL), Permission-Aware Retrieval, Red Teaming
-- **Backend & Cloud:** FastAPI, REST APIs, MCP, Docker, Terraform, AWS, LocalStack
-- **Embedded & IoT:** ESP32, Arduino, Sensor Fusion, I2C, Analog Interfaces
-- **Tools & OS:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, MATLAB, MuJoCo, PyTest | Windows, Ubuntu Linux, Kali Linux
+#### **AI, ML & Information Retrieval**
+- **Frameworks & Libraries:** PyTorch, TensorFlow, NumPy, SciPy, Gymnasium, MuJoCo
+- **Generative AI & LLMs:** RAG Systems, Ollama, Semantic Search, Hybrid Search
+- **Search & Ranking:** FAISS, BM25, Reciprocal Rank Fusion (RRF), Cross-Encoder Reranking
+- **AI Security & Safety:** Red Teaming, Prompt Injection Testing, Access Control Lists (ACL), Permission-Aware Retrieval
+
+#### **Software, Backend & Cloud**
+- **Languages:** C, C++, Python, Java, Verilog
+- **Backend & APIs:** FastAPI, REST APIs, Model Context Protocol (MCP)
+- **DevOps & Cloud:** Docker, Terraform, AWS, LocalStack
+
+#### **Embedded Systems & Tools**
+- **Hardware & IoT:** ESP32, Arduino, Sensor Fusion, I2C, Analog Interfaces
+- **Developer Tools:** Git, GitHub, PyTest, VS Code, Jupyter, Google Colab, MATLAB
+- **Operating Systems:** Ubuntu Linux, Kali Linux, Windows
 
 ---
+
+### 📊 GitHub Stats
+
+![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NehaPrajwal1&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaPrajwal1&layout=compact&theme=radial)
 
 
