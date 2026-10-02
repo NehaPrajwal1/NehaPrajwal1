@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm Neha Prajwal
 
 ```text
-name     : Neha Prajwal
-degree   : BTech Electronics and Communication Engineering — PES University
-minors   : Computer Science and Engineering [ DSA, DAA, OS, DBMS ]
-focus    : [ AI security, information retrieval, machine learning, embedded systems ]
-building : [ AI applications, secure retrieval pipelines, embedded systems ]
-contact  : nehaprajwal1@gmail.com
+Name     : Neha Prajwal
+Degree   : BTech Electronics and Communication Engineering — PES University
+Minors   : Computer Science and Engineering [ DSA, DAA, OS, DBMS ]
+Focus    :  information retrieval, machine learning, embedded systems 
+Contact  : nehaprajwal1@gmail.com
 
 
 
