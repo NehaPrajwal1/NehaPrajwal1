@@ -14,18 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">Hi there 👋, I'm Neha Prajwal</h3>
+### Hi there 👋, I'm Neha Prajwal
 
-name : Neha Prajwal
-degree : BTech Electronics and Communication Engineering — PES University
-minors : Computer Science and Engineering [ DSA, DAA, OS, DBMS ]
-focus : [ embedded systems, machine learning,software development ]
-contact : nehaprajwal1@gmail.com
+```text
+name     : Neha Prajwal
+degree   : BTech Electronics and Communication Engineering — PES University
+minors   : Computer Science and Engineering [ DSA, DAA, OS, DBMS ]
+focus    : [ AI security, information retrieval, machine learning, embedded systems ]
+building : [ AI applications, secure retrieval pipelines, embedded systems ]
+contact  : nehaprajwal1@gmail.com
 
 
----
 
-### 💻 Stack & Skills
+
 
 ### 💻 Stack & Skills
 
@@ -36,9 +37,6 @@ contact : nehaprajwal1@gmail.com
 - **Backend & Cloud:** FastAPI, REST APIs, MCP, Docker, Terraform, AWS, LocalStack
 - **Embedded & IoT:** ESP32, Arduino, Sensor Fusion, I2C, Analog Interfaces
 - **Tools & OS:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, MATLAB, MuJoCo, PyTest | Windows, Ubuntu Linux, Kali Linux
-
----
-
 
 ---
 
