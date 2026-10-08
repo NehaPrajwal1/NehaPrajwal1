@@ -24,7 +24,7 @@ A final-year ECE student with a minor in CSE, passionate about building robust *
 
 - 🎓 **Degree:** B.Tech in Electronics and Communication Engineering @ **PES University**
 - 📚 **Minors:** Computer Science and Engineering *(DSA, DAA, OS, DBMS)*
-- 🎯 **Core Focus:** Information Retrieval • Machine Learning • AI Security • Embedded Systems
+- 🎯 **Core Focus:** Information Retrieval • Reinforcement Learning • Deep Learning • AI Security • Embedded Systems • IoT
 - 📬 **Get in Touch:** [nehaprajwal1@gmail.com](mailto:nehaprajwal1@gmail.com)
 
 ---
@@ -38,7 +38,7 @@ A final-year ECE student with a minor in CSE, passionate about building robust *
 - **AI Security & Safety:** Red Teaming, Prompt Injection Testing, Access Control Lists (ACL), Permission-Aware Retrieval
 
 #### **Software, Backend & Cloud**
-- **Languages:** C, C++, Python, Java, Verilog
+- **Languages:** C, C++, Python, Java, System Verilog, Verilog, Assembly Language
 - **Backend & APIs:** FastAPI, REST APIs, Model Context Protocol (MCP)
 - **DevOps & Cloud:** Docker, Terraform, AWS, LocalStack
 
